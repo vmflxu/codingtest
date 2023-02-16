@@ -13,3 +13,5 @@ function solution(absolutes, signs) {
     
     return answer;
 }
+var n = 5.5
+Math.sqrt(n).toFixed(2)
