@@ -1,24 +1,3 @@
-function solution(s) {
-    var answer;
-
-    if(s.length === 4 || s.length ===6){
-    } else {
-        return answer = false;
-    }
-    
-    if(isNaN(s)){
-        answer = false;
-    } else {
-        answer = true;
-    }
-    
-    return answer;
-}
-
-
-
-// // 슈도코드를 습관화해라. 코드가 익숙해질때까지는.
-
 
 function solution(s) {
     var answer = true;
